@@ -1,6 +1,11 @@
 # Console-AI
 CMD PYTHON AI Chat
 
+## NEW Console.py in PyQt6
+
+https://github.com/Mizogg/Console-AI/assets/88630056/b0893eb2-0140-41ba-991f-94a46aed444b
+
+
 Console.py is a PyQt5-based application that provides a graphical interface for executing commands and interacting with an AI model. It allows users to execute custom commands, view the command output in a console-like window, change the console color, and perform AI interactions.
 
 ![image](https://github.com/Mizogg/Console-AI/assets/88630056/5634e93f-9342-40d8-a671-7150acfdffc7)
